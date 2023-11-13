@@ -1,0 +1,22 @@
+﻿
+.footerlinks {
+    color: white;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: bisque;
+    }
+
+#footer1 {
+    background-color: brown;
+}
+
+#footer2 {
+    background-color: black;
+}
+
+.respond {
+    max-width: 100%;
+}
+
