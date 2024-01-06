@@ -1,5 +1,5 @@
 Fullstack dynamic Web Application that enables
--Admin functionalities like author management, book management, publishe management, book issuing
+-Admin functionalities like author management, book management, publisher management, book issuing
 -Member functionalities like member registration, checking out
 -Admin and member authorisation and sessions
 -| c# | HTML | CSS | JAVASRIPT
